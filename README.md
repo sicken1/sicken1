@@ -1,4 +1,4 @@
-## 🐾 Meow! I'm Sicken 🐾  
+## 🐾 Meow! I'm Hiro 🐾  
 
 Just another cat who survived the student years of IT.  
 Spent days debugging, nights panicking, and still here — coding anyway. 🐈‍⬛  
